@@ -1,5 +1,6 @@
 import discord
 from discord.ext import commands
+# San loves this.
 
 memes = commands.Bot(command_prefix='!')
 
